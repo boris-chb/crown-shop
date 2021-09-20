@@ -8,5 +8,5 @@ An online shop project inspired from (https://www.udemy.com/course/complete-reac
 * Stripe
 * Firebase
 
-# Demo link: ()[coming soon...] ![loading icon](https://proofmart.com/wp-content/uploads/2021/06/loading-icon-2-product.png "Loading Icon")
+# Demo link: coming soon...
 ![image](https://user-images.githubusercontent.com/47457848/133987742-79841a13-3fa6-4a72-bc38-3f0bc59a5306.png)
