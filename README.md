@@ -1,4 +1,4 @@
-An online shop project inspired from [https://www.udemy.com/course/complete-react-developer-zero-to-mastery/](React Developer Bootcamp) course by Andrei Neagoie and Yihua Zhang on Udemy.
+An online shop project inspired from [React Developer Bootcamp](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/) course by Andrei Neagoie and Yihua Zhang on Udemy.
 
 # Technologies used:
 
